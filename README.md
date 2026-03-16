@@ -6,12 +6,18 @@ A clean, full-stack Notes and Journal web application built with **Node.js**, **
 
 ## 🚀 Features
 
-- 📝 Create, edit, and delete notes
-- 📌 Pin important notes to the top
-- 🏷️ Tag notes for easy organization
-- 🔍 Search notes by title or content
 - 🎨 Clean, responsive frontend served directly by the backend
-- 🔒 Secured with Helmet.js and CORS
+![Home Screen](assets/screenshot-home.png)
+![Home Screen Notes](assets/screenshot-notes.png)
+- 📝 Create, edit, and delete notes
+![Create Note](assets/screenshot-create.png)
+![Edit & Delete Note](assets/screenshot-edit.png)
+- 📌 Pin important notes to the top
+![Pinned Notes](assets/screenshot-pinned.png)
+- 🏷️ Tag notes for easy organization
+![Tag Filter](assets/screenshot-tags.png)
+- 🔍 Search notes by title or content
+![Search](assets/screenshot-search.png)
 
 ---
 
