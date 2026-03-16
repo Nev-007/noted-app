@@ -15,7 +15,8 @@ A clean, full-stack Notes and Journal web application built with **Node.js**, **
 - 📌 Pin important notes to the top
 ![Pinned Notes](assets/screenshot-pinned.png)
 - 🏷️ Tag notes for easy organization
-![Tag Filter](assets/screenshot-tags.png)
+
+  ![Tag Filter](assets/screenshot-tags.png)
 - 🔍 Search notes by title or content
 ![Search](assets/screenshot-search.png)
 
