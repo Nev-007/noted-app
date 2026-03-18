@@ -1,5 +1,14 @@
 # 📓 Noted — Notes & Journal App
 
+![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-4-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![dotenv](https://img.shields.io/badge/dotenv-16-ECD53F?style=flat&logo=dotenv&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Nev--007-181717?style=flat&logo=github&logoColor=white)
+
 A clean, full-stack Notes and Journal web application built with **Node.js**, **Express**, and **MySQL**. Create, organize, pin, tag, and search your notes — all from a beautiful single-page interface.
 
 ---
